@@ -7,7 +7,7 @@
 - 💬 Ask me about anything related to <strong>IT</strong>.
 - 📫 How to reach me: <strong>[man7ober@gmail.com](mailto:man7ober@gmail.com)</strong>
 - 😄 Pronouns: <strong>He/His</strong>
-- ⚡ Shortcut: <code>alt + tab</code> and <code>ctrl + tab</code>.
+- ⚡ Shortcut: <code><strong>alt + tab</strong></code> and <code><strong>ctrl + tab</strong></code>.
 
 ## Technologies:
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
