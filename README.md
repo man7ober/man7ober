@@ -20,7 +20,7 @@
 <img align="left" alt="Cloud-Native" width="200px" src="https://raw.githubusercontent.com/cncf/artwork/8341ed685b5ac62d8317e14afe2653b050418205/other/cncf/horizontal/color/cncf-color.png" />
 <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
-<br>
+<br><br>
 
 ## Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
