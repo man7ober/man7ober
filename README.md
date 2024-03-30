@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on <strong>Web + Cloud + Data</strong>.
 - 🌱 I’m currently learning <strong>AWS</strong>.
 - 👯 I’m looking to collaborate on <strong>GitHub</strong>.
-- 🤔 I’m looking for help on <strong>Artificial Intelligence</strong>.
+- 🤔 I’m looking for help on <strong>Data Engineering</strong>.
 - 💬 Ask me about anything related to <strong>IT</strong>.
 - 📫 How to reach me: <strong>[man7ober@gmail.com](mailto:man7ober@gmail.com)</strong>
 - 😄 Pronouns: <strong>He/His</strong>
