@@ -1,6 +1,6 @@
 # Hi, I'm Mayank Nagora. 👋
 
-- 🔭 I’m currently working on <strong>Full-Stack Data Engineering</strong>.
+- 🔭 I’m currently working on <strong>Full Stack Developer</strong>.
 - 🌱 I’m currently learning <strong>AWS</strong>.
 - 👯 I’m looking to collaborate on <strong>GitHub</strong>.
 - 🤔 I’m looking for help on <strong>Project Management</strong>.
