@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on <strong>Cloud Computing</strong>.
 - 🌱 I’m currently learning <strong>AWS</strong>.
 - 👯 I’m looking to collaborate on <strong>GitHub</strong>.
-- 🤔 I’m looking for help on <strong>Data Engineering</strong>.
+- 🤔 I’m looking for help on <strong>Data Science</strong>.
 - 💬 Ask me about anything related to <strong>IT</strong>.
 - 📫 How to reach me: <strong>[man7ober@gmail.com](mailto:man7ober@gmail.com)</strong>
 - 😄 Pronouns: <strong>He/His</strong>
@@ -22,4 +22,3 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="ChatGPT" width="40px" src="https://github.com/lencx/ChatGPT/blob/main/public/logo.png" />
-<img align="left" alt="Excel" width="40px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" />
