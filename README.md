@@ -22,5 +22,5 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/prometheus/prometheus/f5eff89811cb3249f5fb3345e3a2350936b0362c/documentation/images/prometheus-logo.svg" />
 <img align="left" alt="Grafana" width="40px" src="https://user-images.githubusercontent.com/5418178/162419165-9570bbeb-c703-4455-af28-f63a8c6dd019.png" />
-<img align="left" alt="Grafana" width="40px" src="https://user-images.githubusercontent.com/7927596/68089633-dfed3800-fe38-11e9-893e-4efd59306bdd.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
