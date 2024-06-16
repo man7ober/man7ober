@@ -18,7 +18,7 @@
 <img align="left" alt="Terraform" width="40px" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" />
 <img align="left" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/prometheus/prometheus/f5eff89811cb3249f5fb3345e3a2350936b0362c/documentation/images/prometheus-logo.svg" />
 <img align="left" alt="Grafana" width="40px" src="https://user-images.githubusercontent.com/5418178/162419165-9570bbeb-c703-4455-af28-f63a8c6dd019.png" />
-<img align="left" alt="Argo CD" width="40px" src="https://camo.githubusercontent.com/8c2291236a1945ea50aa74f84cb581780811afcb7f23a977fef259ec82f67876/68747470733a2f2f7265646861742d7363686f6c6172732e6769746875622e696f2f6172676f63642d7475746f7269616c2f6172676f63642d7475746f7269616c2f5f696d616765732f6172676f63642d6c6f676f2e706e67" />
+<img align="left" alt="Argo CD" width="30px" src="https://github.com/cncf/artwork/blob/main/projects/argo/icon/color/argo-icon-color.png" />
 <img align="left" alt="Github Actions" width="40px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
 <img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br><br>
