@@ -11,6 +11,7 @@
 
 ### Technology:
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Networking" width="40px" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1272487929/CompTIA_Network_2B16411825997432926591.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/a4ba4662de82e90f5f9b28aa37536cf00f4e50bb/topics/docker-image/docker-image.png" />
