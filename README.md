@@ -16,5 +16,4 @@
 <img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.freepik.com/512/4248/4248340.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="Excel" width="40px" src="https://cdn-icons-png.freepik.com/512/732/732220.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="DevOps" width="40px" src="https://cdn-icons-png.freepik.com/512/5687/5687273.png" />
-<img align="left" alt="ChatGPT" width="40px" src="https://cdn-icons-png.freepik.com/512/5278/5278402.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="AWS" width="40px" src="https://cdn-icons-png.freepik.com/512/8774/8774484.png?ga=GA1.1.482715163.1719123291" />
