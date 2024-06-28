@@ -15,4 +15,3 @@
 <img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.freepik.com/512/4248/4248340.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="DevOps" width="40px" src="https://cdn-icons-png.freepik.com/512/5687/5687273.png" />
 <img align="left" alt="AWS" width="40px" src="https://cdn-icons-png.flaticon.com/512/2818/2818774.png" />
-<img align="left" alt="DSA" width="40px" src="https://cdn-icons-png.freepik.com/512/15759/15759026.png?ga=GA1.1.482715163.1719123291" />
