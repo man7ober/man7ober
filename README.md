@@ -16,4 +16,6 @@
 <img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.freepik.com/512/4248/4248340.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="KCNA" width="40px" src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png" />
 <img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-social-285-116319.png?f=webp&w=512" />
+<img align="left" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
+<img align="left" alt="Machine Learning" width="40px" src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" />
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
