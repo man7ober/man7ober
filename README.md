@@ -15,7 +15,7 @@
 <img align="left" alt="Security" width="40px" src="https://cdn-icons-png.flaticon.com/512/4744/4744315.png" />
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Django" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=512" />
-<img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.freepik.com/512/4248/4248340.png?ga=GA1.1.482715163.1719123291" />
+<img align="left" alt="SQL" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-226047.png?f=webp&w=512" />
 <img align="left" alt="KCNA" width="40px" src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png" />
 <img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-social-285-116319.png?f=webp&w=512" />
 <img align="left" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
