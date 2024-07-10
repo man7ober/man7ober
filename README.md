@@ -17,8 +17,8 @@
 <br />
 
 ### Databases :
-<img align="left" alt="PostgreSQL" width="40px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
-<img align="left" alt="MongoDB" width="40px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+<img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.freepik.com/512/4248/4248340.png?ga=GA1.1.482715163.1719123291" />
+<img align="left" alt="NoSQL" width="40px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
 
 <br />
 <br />
