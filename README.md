@@ -14,7 +14,6 @@
 <img align="left" alt="Networking" width="40px" src="https://cdn-icons-png.freepik.com/512/5050/5050244.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.freepik.com/512/4248/4248340.png?ga=GA1.1.482715163.1719123291" />
-<img align="left" alt="NoSQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5818/5818640.png" />
 <img align="left" alt="CNCF" width="40px" src="https://github.com/cncf/artwork/blob/main/other/cncf/icon/color/cncf-icon-color.png" />
 <img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-social-285-116319.png?f=webp&w=512" />
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
