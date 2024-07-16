@@ -9,7 +9,7 @@
 - 😄 Pronouns: <strong>He/His</strong>
 - ⚡ Shortcut: <code><strong>alt + tab</strong></code> and <code><strong>ctrl + tab</strong></code>.
 
-### Cloud Computing :
+### Technologies :
 <img align="left" alt="Linux" width="40px" src="https://cdn-icons-png.freepik.com/512/15465/15465695.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="Networking" width="40px" src="https://cdn-icons-png.freepik.com/512/5050/5050244.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="Security" width="40px" src="https://cdn-icons-png.flaticon.com/512/4744/4744315.png" />
