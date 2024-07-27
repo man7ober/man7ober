@@ -15,6 +15,8 @@
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Django" width="40px" src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png" />
 <img align="left" alt="Database" width="40px" src="https://cdn-icons-png.flaticon.com/512/6713/6713079.png" />
+<img align="left" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
+<img align="left" alt="Machine Learning" width="40px" src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" />
 <img align="left" alt="CNCF" width="40px" src="https://github.com/cncf/artwork/blob/main/other/cncf/icon/color/cncf-icon-color.png" />
 <img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-social-285-116319.png?f=webp&w=512" />
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
