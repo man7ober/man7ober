@@ -15,8 +15,10 @@
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Django" width="40px" src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png" />
 <img align="left" alt="Database" width="40px" src="https://cdn-icons-png.flaticon.com/512/6713/6713079.png" />
-<img align="left" alt="CNCF" width="40px" src="https://github.com/cncf/artwork/blob/main/other/cncf/icon/color/cncf-icon-color.png" />
-<img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-social-285-116319.png?f=webp&w=512" />
+<img align="left" alt="Docker" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-1024.png" />
+<img align="left" alt="K8" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
+<img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
+<img align="left" alt="Github Actions" width="40px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
 <!--
 <br/>
