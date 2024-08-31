@@ -14,10 +14,10 @@
 <img align="left" alt="Network Security" width="40px" src="https://icons.veryicon.com/png/o/business/cloud-server-cvm-icon/network-security.png" />
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Database" width="40px" src="https://cdn-icons-png.flaticon.com/512/6713/6713079.png" />
-<img align="left" alt="Machine Learning" width="40px" src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" />
 <img align="left" alt="Docker" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-1024.png" />
 <img align="left" alt="K8" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
 <img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
+<img align="left" alt="Prometheus" width="40px" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" />
 <img align="left" alt="Github Actions" width="40px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
 <!--
