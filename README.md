@@ -12,7 +12,7 @@
 ### Technology :
 <span><img align="left" alt="Linux" width="40px" src="https://cdn-icons-png.freepik.com/512/15465/15465695.png?ga=GA1.1.482715163.1719123291" />
 <img align="left" alt="Network Security" width="40px" src="https://icons.veryicon.com/png/o/business/cloud-server-cvm-icon/network-security.png" />
-<img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+<img align="left" alt="Python" width="70px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1601909135781-K9ZBZ584ZUILX572P0HS/python-vs-go-slim.png" />
 <img align="left" alt="Database" width="40px" src="https://cdn-icons-png.flaticon.com/512/6713/6713079.png" />
 <img align="left" alt="AI" width="40px" src="https://cdn-icons-png.flaticon.com/512/12122/12122378.png" />
 <img align="left" alt="Docker" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-1024.png" />
