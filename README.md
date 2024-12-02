@@ -1,13 +1,13 @@
 # Hi, I'm Mayank Nagora. 👋
 
-- 🔭 I’m currently working on <strong>Cloud Computing</strong>.
-- 🌱 I’m currently learning <strong>AWS</strong>.
-- 👯 I’m looking to collaborate on <strong>GitHub</strong>.
-- 🤔 I’m looking for help on <strong>Cloud Projects</strong>.
-- 💬 Ask me about anything related to <strong>IT</strong>.
+- 🔭 I’m currently working on <strong>Cloud Computing</strong>
+- 🌱 I dedicate one hour daily for <strong>DSA</strong>
+- 👯 I’m looking to collaborate on <strong>Social Media</strong>
+- 🤔 I’m looking for help on <strong>Cloud Projects</strong>
+- 💬 Ask me about anything related to <strong>IT</strong>
 - 📫 How to reach me: <strong>[man7ober@gmail.com](mailto:man7ober@gmail.com)</strong>
 - 😄 Pronouns: <strong>He/His</strong>
-- ⚡ Shortcut: <code><strong>alt + tab</strong></code> and <code><strong>ctrl + tab</strong></code>.
+- ⚡ Shortcut: <code><strong>alt + tab</strong></code> and <code><strong>ctrl + tab</strong></code>
 
 ### Technology :
 <span><img align="left" alt="Linux" width="40px" src="https://cdn-icons-png.freepik.com/512/15465/15465695.png?ga=GA1.1.482715163.1719123291" />
