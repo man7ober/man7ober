@@ -1,7 +1,7 @@
 # Hi, I'm Mayank Nagora. 👋
 
 - 🔭 I’m currently working on <strong>Cloud Computing</strong>
-- 🌱 I dedicate one hour daily for <strong>DSA</strong>
+- 🌱 I dedicate one hour daily for <strong>Problem Solving</strong>
 - 👯 I’m looking to collaborate on <strong>Social Media</strong>
 - 🤔 I’m looking for help on <strong>Cloud Projects</strong>
 - 💬 Ask me about anything related to <strong>IT</strong>
