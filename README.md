@@ -14,5 +14,5 @@
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Database" width="40px" src="https://cdn-icons-png.flaticon.com/512/6713/6713079.png" />
 <img align="left" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
-<img align="left" alt="PowerBI" width="40px" src="https://img.icons8.com/?size=512&id=Ny0t2MYrJ70p&format=png" />
+<img align="left" alt="Git" width="40px" src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" />
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" /></span>
