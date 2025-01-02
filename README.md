@@ -19,4 +19,4 @@
 <img align="left" alt="Kubernetes" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
 <img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" />
-<img align="left" alt="AWS" width="40px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" /></span>
+<img align="left" alt="AWS" width="40px" src="https://cdn-icons-png.freepik.com/512/8774/8774482.png?ga=GA1.1.1150635080.1723695548" /></span>
