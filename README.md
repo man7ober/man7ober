@@ -14,7 +14,7 @@
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Database" width="40px" src="https://cdn-icons-png.flaticon.com/512/6713/6713079.png" />
 <img align="left" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
-<img align="left" alt="PowerBI" width="40px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
+<img align="left" alt="PowerBI" width="40px" src="https://img.icons8.com/?size=512&id=Ny0t2MYrJ70p&format=png" />
 <img align="left" alt="Docker" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-1024.png" />
 <img align="left" alt="Kubernetes" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
 <img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
