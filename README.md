@@ -18,5 +18,5 @@
 <img align="left" alt="Docker" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-1024.png" />
 <img align="left" alt="Kubernetes" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
 <img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" />
+<img align="left" alt="Actions" width="40px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
 <img align="left" alt="AWS" width="40px" src="https://cdn-icons-png.freepik.com/512/8774/8774482.png?ga=GA1.1.1150635080.1723695548" /></span>
