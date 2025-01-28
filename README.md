@@ -19,4 +19,4 @@
 <img align="left" alt="Kubernetes" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
 <img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
 <img align="left" alt="Actions" width="40px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
-<img align="left" alt="Azure" width="40px" src="https://icon.icepanel.io/Technology/svg/Azure.svg" /></span>
+<img align="left" alt="Azure" width="40px" src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" /></span>
