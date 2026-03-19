@@ -18,5 +18,6 @@
 <img align="left" alt="Kubernetes" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-1024.png" />
 <img align="left" alt="Terraform" width="40px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" />
 <img align="left" alt="Actions" width="40px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
-<img align="left" alt="Cloud" width="40px" src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" /></span>
-<img align="left" alt="Opentelemetry" width="40px" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" />
+<img align="left" alt="AWS" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-svg-download-png-1583149.png" />
+<img align="left" alt="ChatGPT" width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222589.png" /></span>
+
